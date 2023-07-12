@@ -8,7 +8,7 @@ Siparişler için, ekleme / silme / listeleme işlemlerinin gerçekleştirildiğ
 Docker ile projeyi kaldırmak için : ./vendor/bin/sail up  
 
 
-- - **Yeni sipariş eklenirken, satın alınan ürünün stoğu yeterli değilse (products.stock) bir hata mesajı döndürür.
+- Yeni sipariş eklenirken, satın alınan ürünün stoğu yeterli değilse (products.stock) bir hata mesajı döndürür.
 - - **Requestlerde gerekli validasyonlar gerçekleşir.
 - - **Toplam 1000TL ve üzerinde alışveriş yapan bir müşteri, siparişin tamamından %10 indirim kazanır.
 - - **2 ID'li kategoriye ait bir üründen 6 adet satın alındığında, bir tanesi ücretsiz olarak verilir.
