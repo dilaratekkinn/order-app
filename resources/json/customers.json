@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Türker Jöntürk",
+        "email": "türker@gmail.com",
+        "password": "123turker",
+        "since": "2014-06-28",
+        "revenue": "492.12"
+    },
+    {
+        "id": 2,
+        "name": "Kaptan Devopuz",
+        "email": "kaptan@gmail.com",
+        "password": "123kaptan",
+        "since": "2015-01-15",
+        "revenue": "1505.95"
+    },
+    {
+        "id": 3,
+        "name": "İsa Sonuyumaz",
+        "email": "isa@gmail.com",
+        "password": "123isa",
+        "since": "2016-02-11",
+        "revenue": "0.00"
+    }
+]
